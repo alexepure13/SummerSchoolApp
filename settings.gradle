@@ -1,0 +1,2 @@
+rootProject.name = "IBM Summer School App"
+include ':app'
